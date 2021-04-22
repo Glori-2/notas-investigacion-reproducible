@@ -9,5 +9,5 @@ Con el fin de resolver esta problemática, diferentes organizaciones, como el Co
 
 ![Figura 1](ZiemannEtAlFig1.png)
 
-Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
+Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).  
 ##Bibliografía
